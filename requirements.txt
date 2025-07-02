@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+Pillow
+transformers   # Only if you want to mimic GPT-style transformers
+whisper
+ffmpeg-python
